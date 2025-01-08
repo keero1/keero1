@@ -1,4 +1,8 @@
-## Hi there 👋
+## <div align="center"> Hello, I'm John Aldrin Arpon 👋</div>
+
+
+* I'm a 4th Year Computer Science Student
+* I'm interested in Software Development and Web Development.
 
 <!--
 **keero1/keero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
