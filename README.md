@@ -4,8 +4,7 @@
 
 I'm a self-taught programmer with interest in Web Development.
 
-* I'm a 4th Year Computer Science Student
-* 🌱 I’m currently learning C++ and C# .NET
+* I'm a Graduating Computer Science Student (finished internship and all subs)
 * 📫 How to reach me:
   - Discord: keero1
 
