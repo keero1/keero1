@@ -7,6 +7,8 @@ I'm a self-taught programmer with interest in Web Development.
 * I'm a Graduating Computer Science Student (finished internship and all subs)
 * 📫 How to reach me:
   - Discord: keero1
+  
+<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=keero1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <!--
 **keero1/keero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
