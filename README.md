@@ -17,10 +17,12 @@ I'm a self-taught Software Enginneer with interest in Web and Mobile Development
 <p>Check out some of my work in the projects section of my <a href="https://johnaldrinarpon.tech">portfolio</a>!</p>
 
 > “Nah, I'd win” – *Gojo Satoru*
- 
+
+<!--
 <div align="left">  
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=keero1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+-->
   
 
 <!--
