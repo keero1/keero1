@@ -14,7 +14,7 @@ I'm a self-taught Software Enginneer with interest in Web and Mobile Development
 <h3>
   💻 My Projects
 </h3>
-<p>Check out some of my work in the projects section of my <a href="https://johnaldrinarpon.tech">portfolio site</a>!</p>
+<p>Check out some of my work in the projects section of my <a href="https://johnaldrinarpon.tech">portfolio</a>!</p>
 
 > “Nah, I'd win” – *Gojo Satoru*
  
