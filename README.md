@@ -1,6 +1,6 @@
 ## Ayo Welcome, I'm John Aldrin Arpon👋
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/keero1/keero1/main/bocchi.png">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/keero1/keero1/main/bocchi.png">
 
 I'm a self-taught Software Enginneer with interest in Web and Mobile Development.
 
