@@ -1,12 +1,26 @@
-## <div align="center"> Ayo Welcome👋</div>
+## Ayo Welcome, I'm John Aldrin Arpon👋
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/keero1/keero1/main/bocchi.png">
 
-I'm a self-taught programmer with interest in Web Development.
+I'm a self-taught Software Enginneer with interest in Web and Mobile Development.
 
-* I'm a Graduating Computer Science Student (finished internship and all subs)
+<h3>🚀 About Me</h3>
+
+* A Computer Science Graduate from STI College San Jose Del Monte '25
+* I specialize in **React**, **Firebase**, and modern web technologies.
 * 📫 How to reach me:
   - Discord: keero1
+ 
+<h3>
+  💻 My Projects
+</h3>
+<p>Check out some of my work in the projects section of my <a href="https://johnaldrinarpon.tech">portfolio site</a>!</p>
+
+> “Nah, I'd win” – *Gojo Satoru*
+ 
+<div align="left">  
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=keero1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
   
 
 <!--
