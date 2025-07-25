@@ -7,7 +7,7 @@ I'm a self-taught Software Enginneer with interest in Web and Mobile Development
 <h3>🚀 About Me</h3>
 
 * A Computer Science Graduate from STI College San Jose Del Monte '25
-* I specialize in **MERN**, **FERN**, , and modern web technologies.
+* I specialize in **MERN**, **FERN**, and modern web technologies.
 * 📫 How to reach me:
   - Discord: keero1
  
