@@ -10,6 +10,7 @@ I'm a self-taught Software Enginneer with interest in Web and Mobile Development
 * I specialize in **React**, **React Native**, **Node.js**, and modern web/mobile technologies.
 * 📫 How to reach me:
   - Discord: keero1
+  - Email: keero.dev@gmail.com 
  
 <h3>
   💻 My Projects
