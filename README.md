@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/keero1/keero1/main/bocchi.png">
 
-I'm a self-taught Software Enginneer with interest in Web and Mobile Development.
+I'm a self-taught Software Engineer with interest in Web and Mobile Development.
 
 <h3>🚀 About Me</h3>
 
