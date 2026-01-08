@@ -19,6 +19,10 @@ I'm a self-taught Software Enginneer with interest in Web and Mobile Development
 
 > “Nah, I'd win” – *Gojo Satoru*
 
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,vite,java,dart,flutter,mongodb,firebase,supabase,aws,gcp,postgresql&perline=12" />
+</p>
+
 <!--
 <div align="left">  
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=keero1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
